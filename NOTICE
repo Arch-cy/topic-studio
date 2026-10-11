@@ -1,0 +1,9 @@
+Topic Studio is a modified work inspired by and adapted from:
+AI Startup Trend Analysis Agent, Shubhamsaboo/awesome-llm-apps.
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Upstream revision: 4bf51ab704fb2c5b3803cd5191b30d7dcdb51dc2
+Original example is retained in upstream/startup_trends_agent.py.
+Modifications: Chinese topic research UI, structured evidence and topic schemas,
+source validation, model configuration, explicit demo mode, local persistence,
+outline generation, feedback and export. Modified October 11, 2026.
+Distributed under Apache License 2.0; see LICENSE.

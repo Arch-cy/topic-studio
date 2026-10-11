@@ -1,0 +1,9 @@
+streamlit==1.65.0
+agno==2.9.0
+google-genai==1.75.0
+openai==2.54.0
+ddgs==9.16.0
+python-dotenv==1.2.4
+pydantic==2.14.0
+requests==2.34.2
+beautifulsoup4==4.15.0
